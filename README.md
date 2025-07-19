@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow" alt="Status do Curso: Em Andamento"/>
-<img src="https://img.shields.io/badge/Instituição-Nome%20da%20Sua%20Universidade-blue" alt="Instituição"/>
+<img src="https://img.shields.io/badge/Instituição-Nome%20da%20Sua%20Universidade-blue" alt="Centro Universitário UNIESP"/>
 <img src="https://img.shields.io/badge/Foco-Java%20%26%20Spring-orange" alt="Foco: Java & Spring"/>
 </p>
 
