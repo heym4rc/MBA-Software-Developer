@@ -18,13 +18,13 @@ else:
     # Verifica a condição do IMC com base nos padrões da OMS
     if imc < 18.5:
         print("Você está Abaixo do Peso.")
-    elif imc < 25:
+    elif 18.5 <= imc < 25:
         print("Você está no Peso Normal.")
-    elif imc < 30:
+    elif 25 <= imc < 30:
         print("Você está com Sobrepeso.")
-    elif imc < 35:
+    elif 30 <= imc < 35:
         print("Você está com Obesidade Grau I.")
-    elif imc < 40:
+    elif 35 <= imc < 40:
         print("Você está com Obesidade Grau II.")
     else:  # imc >= 40
         print("Você está com Obesidade Grau III.")
