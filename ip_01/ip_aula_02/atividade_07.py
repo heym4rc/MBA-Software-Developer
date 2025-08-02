@@ -5,7 +5,7 @@ temperatura_str = input("Digite a temperatura (ex: 25C ou 77F): ")
 temperatura = float(temperatura_str[:-1])
 escala = temperatura_str[-1].upper()
 
-# Converte a temperatura
+# Converte a temperatura e exibe o resultado
 if escala == 'C':
     temperatura_convertida = (temperatura * 9/5) + 32
     print(f"{temperatura}°C é igual a {temperatura_convertida:.2f}°F.")

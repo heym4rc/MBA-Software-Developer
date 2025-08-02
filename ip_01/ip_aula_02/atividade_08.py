@@ -4,7 +4,7 @@
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 
-# Verifica se o primeiro número é maior ou igual ao segundo
+# Verifica se o primeiro número é maior ou igual ao segundo e exibe o resultado
 if num1 > num2:
     print(f"{num1} é maior {num2}.")
 elif num1 < num2:

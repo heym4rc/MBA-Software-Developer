@@ -5,6 +5,7 @@
 idade = int(input("Digite a sua idade: "))
 ingresso = input("Ingresso VIP ou PISTA: ")
 
+# Verifica a idade e o tipo de ingresso para determinar a permissão de entrada
 if idade >= 18 and ingresso == "VIP":
     print("Siga pelo o primeiro andar.")
 elif idade >= 18 and ingresso == "PISTA":

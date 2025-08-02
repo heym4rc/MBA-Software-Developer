@@ -13,6 +13,7 @@ else:
     # Calcula o IMC
     imc = peso / (altura ** 2)
 
+    # Exibe o IMC calculado
     print(f"Seu IMC é {imc:.2f}.")
 
     # Verifica a condição do IMC com base nos padrões da OMS
